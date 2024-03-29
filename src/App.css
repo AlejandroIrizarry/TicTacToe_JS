@@ -29,12 +29,11 @@ body {
 .App {
     text-align: center;
 
-}
-
-.App-Head {
-    position: relative;
-    overflow: hidden;
-    display: flex;
-    align-items: center;
-    height: 80vh;
+    .App-Head {
+        position: relative;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        height: 80vh;
+    }
 }
